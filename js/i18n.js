@@ -63,6 +63,7 @@
       "footer.quicklinks": "روابط سريعة",
       "footer.contactTitle": "بيانات التواصل",
       "footer.follow": "تابعنا على فيسبوك",
+      "footer.followInstagram": "تابعنا على انستغرام",
       "footer.rightsText": "TMS للخدمات الفنية والصيانة. جميع الحقوق محفوظة.",
       "whatsapp.label": "تواصل معنا عبر واتساب",
 
@@ -151,6 +152,8 @@
       "contact.addressValue": "المنطقة الصناعية، العباسية، بجوار توشيبا العربي، خلف تاكي أحمد سعيد",
       "contact.facebookLabel": "فيسبوك",
       "contact.facebookValue": "TMS للخدمات الفنية والصيانة",
+      "contact.instagramLabel": "انستغرام",
+      "contact.instagramValue": "tms_services_eg",
 
       "contact.mapTitle": "موقعنا على الخريطة",
       "contact.mapNote": "سيتم إضافة خريطة تفاعلية قريبًا",
@@ -165,6 +168,7 @@
       "form.messagePh": "اكتب تفاصيل طلبك أو استفسارك هنا...",
       "form.submit": "إرسال الرسالة",
       "form.success": "شكرًا لتواصلك معنا! سيقوم فريقنا بالرد عليك في أقرب وقت ممكن.",
+      "form.error": "حدث خطأ أثناء الإرسال، يرجى المحاولة مرة أخرى أو التواصل عبر واتساب.",
       "form.note": "سنتواصل معك خلال ساعات العمل الرسمية"
     },
 
@@ -227,6 +231,7 @@
       "footer.quicklinks": "Quick Links",
       "footer.contactTitle": "Contact Info",
       "footer.follow": "Follow us on Facebook",
+      "footer.followInstagram": "Follow us on Instagram",
       "footer.rightsText": "TMS Technical & Maintenance Service. All rights reserved.",
       "whatsapp.label": "Chat with us on WhatsApp",
 
@@ -315,6 +320,8 @@
       "contact.addressValue": "Industrial Zone, Al-Abbasia, beside Toshiba El-Araby, behind Takky, Ahmed Saeed",
       "contact.facebookLabel": "Facebook",
       "contact.facebookValue": "TMS Technical & Maintenance Service",
+      "contact.instagramLabel": "Instagram",
+      "contact.instagramValue": "tms_services_eg",
 
       "contact.mapTitle": "Our Location on the Map",
       "contact.mapNote": "An interactive map will be added soon",
@@ -329,6 +336,7 @@
       "form.messagePh": "Tell us about your request or question...",
       "form.submit": "Send Message",
       "form.success": "Thank you for reaching out! Our team will get back to you shortly.",
+      "form.error": "Something went wrong while sending. Please try again or contact us on WhatsApp.",
       "form.note": "We'll respond during official working hours"
     }
   };
